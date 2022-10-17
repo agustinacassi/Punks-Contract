@@ -1,4 +1,9 @@
-# Sample Hardhat Project
+# Punks Contract
+
+Solidity contract para generar Avatares NFT con metadata pseudorandom, consumiendo la API de avataaars.io.
+
+-----
+
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
